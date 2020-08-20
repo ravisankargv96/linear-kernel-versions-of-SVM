@@ -1,1 +1,1 @@
-# linear-kernel-versions-of-SVM
+# linear-vs-kernel-versions-of-SVM
